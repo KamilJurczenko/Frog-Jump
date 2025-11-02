@@ -1,0 +1,56 @@
+Non-Commercial Source-Available License (2025)
+
+Copyright (c) 2025 Kamil Jurczenko
+All rights reserved.
+
+Purpose
+This license makes the source code and other materials in this repository publicly viewable, copyable, and modifiable for non-commercial purposes only. It does NOT grant rights to use the licensed materials for commercial exploitation.
+
+Definitions
+- "You" means any individual or legal entity exercising rights under this License.
+- "Software" means the contents of this repository (source code, assets, documentation, and other files) unless a file explicitly states a different license.
+- "Commercial" or "commercial use" means any use primarily intended for or directed toward commercial advantage or monetary compensation, including but not limited to:
+  - selling the Software or a derivative work;
+  - distributing the Software as part of a paid product or service;
+  - charging for access to software that includes the Software;
+  - using the Software in a service or product that is monetized (for example, via direct payment, subscriptions, advertising, or indirect revenue streams).
+
+Grant of Rights (Non-Commercial Use Only)
+Subject to the terms below, the copyright holder grants You a worldwide, royalty-free, non-sublicensable, non-exclusive license to:
+- use, copy, run, and modify the Software for personal, educational, research, academic, or other non-commercial purposes;
+- distribute verbatim or modified copies of the Software provided all distribution is exclusively for non-commercial purposes and complies with this License.
+
+Conditions
+- Attribution: Redistributions of source must retain the above copyright notice, this License, and a clear statement that the code is licensed under this Non-Commercial Source-Available License.
+- Notice: Redistributions in binary or compiled form must reproduce the copyright notice and a pointer to this License in accompanying documentation or other materials.
+- Derivative Works: Derivative works may be distributed only under the same non-commercial terms and must include a prominent notice that the derivative is based on this Software and is licensed under this License.
+
+Prohibited Uses
+Unless You obtain a separate, express, written license from the copyright holder, You must not:
+- sell, license, sublicense, rent, lease, transfer, or otherwise exploit the Software or derivative works for commercial purposes;
+- include the Software (or substantial portions) in any product, service, or offering that is sold, monetized, or that requires payment for access;
+- use the Software in any manner that results in direct or indirect monetary compensation or commercial benefit for You or a third party.
+
+Contributions
+By contributing code, documentation, or other material to this repository, You agree that your contribution will be licensed under this same Non-Commercial Source-Available License unless a different license is explicitly stated for your contribution in writing by the repository owner.
+
+Commercial Licensing
+If You or your organization want to use the Software commercially, contact the copyright holder to request a commercial license:
+Contact: jurczenko.kamil@gmail.com
+The copyright holder may offer a separate commercial license under different terms and fees.
+
+Termination
+Any attempt to exercise rights under this License that is inconsistent with the terms will terminate Your rights under this License. Sections entitled "Disclaimer of Warranty", "Limitation of Liability", and "Commercial Licensing" survive termination.
+
+No Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+Limitation of Liability
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Other Rights and Restrictions
+- This License does not grant any rights in the trademarks, service marks, or logos of the copyright holder.
+- This License is not an open-source license as defined by the Open Source Initiative (OSI) because it restricts commercial use.
+
+Governing Law
+This License is governed by the laws of the jurisdiction of the copyright holder, without regard to conflict-of-law principles.

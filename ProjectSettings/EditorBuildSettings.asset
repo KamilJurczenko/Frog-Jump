@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Build/Menu.unity
+    guid: 9720bbfc02b6d31458e6a5794f16ccf9
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/Level 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/Stair Down.unity
+    guid: d4ac5bd7715460c44a05e37255583dcd
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/Stair Up.unity
+    guid: 683010e991b8b2e488a4b27bb32819d0
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/WarmUp.unity
+    guid: 71068789ad800fc4b91dfe80c654771f
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/Level 3.unity
+    guid: e7f9fef69cc4f754599909651b9cfff2
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/Level 4.unity
+    guid: 039186994ac1b924d90ee1d38d0d0b5f
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/5-6.unity
+    guid: 8d23f4998c3069c47a3cf01e7e033bb8
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/Level 5.unity
+    guid: 21785a83541df70408fa75732b6988a6
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/trampolin.unity
+    guid: 0e45b806fa733cf47baf1649fa9fa734
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/Level 6.unity
+    guid: 7c05f614adbeeb647ba4350b1c32cfd4
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/Close.unity
+    guid: 18abab0c193e7b64bbf015b512edeac1
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/AcidShooter.unity
+    guid: 7be62a64706560742a4f1698509d630a
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/acid 2.unity
+    guid: 9b5cabdabf3b76e45bcce6400b64b3f2
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/Crusher.unity
+    guid: b738bf44e363b3d44ba346971d2293c2
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/spikeplatintro.unity
+    guid: f20740f4b69aa984598b007b613818a3
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/Level 7.unity
+    guid: 77a98c8f233f4074bbdbe44a42e50bf7
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/Movingplatform.unity
+    guid: e5356aa2e9dad244a9b77804597bd4ab
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/Only Moving.unity
+    guid: 314153df4ed020046bb71ed15b777504
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/reflect.unity
+    guid: 9ad3cca9c4e635346bf4d526ba1eae46
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/SpikePlatform.unity
+    guid: aad77293989b19a4f82951677c1c372d
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/OnePlat.unity
+    guid: 1874a1fde90719c43bc18bc6efd5500d
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/Icy.unity
+    guid: 01febb76fc4588d47bd754f54e812800
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/IcyBegin.unity
+    guid: 46ef12617c89b39429a7361b20fd1164
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/New Levels 1/1.unity
+    guid: 91926c5c6cee96c4685b6dc25532bf61
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/New Levels 1/2.unity
+    guid: 7330e8bfc9d7d3648a7df85670b04afb
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/New Levels 1/3.unity
+    guid: 4b7b1654b90680c44a3ad4ffa1fb2d3d
+  - enabled: 1
+    path: Assets/Scenes/Build/Level/Finished/New Levels 1/4.unity
+    guid: 736d1b151d6907241ab7e42917fe8aab
+  m_configObjects: {}
