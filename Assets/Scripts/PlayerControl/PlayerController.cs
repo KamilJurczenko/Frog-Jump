@@ -321,7 +321,6 @@ public class PlayerController : MonoBehaviour
               || collision.gameObject.CompareTag("Spike")) 
               && !GameUI.gameOverBool)
         {
-            GameUI.adTimer += GameUI.timerForLevel;
             AudioManager.instance.Play("Die");
             isDead = true;
             //Debug.Log("Player hit GameOver Object");
